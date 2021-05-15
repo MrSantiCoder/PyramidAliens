@@ -9,7 +9,7 @@ SCREEN_WIDTH = 800
 SCREEN_HEIGHT = int(SCREEN_WIDTH * 0.80) #To integer because it will give you a Float
 
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
-pygame.display.set_caption("Shooter") #Caption for the game window
+pygame.display.set_caption("PyramidAliens") #Caption for the game window
 
 #framerate
 clock = pygame.time.Clock()
