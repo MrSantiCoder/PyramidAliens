@@ -1,5 +1,6 @@
 # PyramidAliens
 Here is my game PyramidAliens
+Make sure you swith to the "master" branch to see where the code and sprite files are.
 There is still a lot of functionality to be added to the game such as new levels, a main menu, better enemy movement... 
 The basic controls for the game are:
   -AWSD for the player movement
